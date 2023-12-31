@@ -1,0 +1,56 @@
+javis_main is the main file which you have to execute
+
+###################################################################
+
+Run in VSCode or PyCharm
+
+####################################################################
+
+First of all you have to Download all the required modules like:-
+
+Install pip in windows terminal by command (pip install (ModuleName))
+Example:- pip install pyttsx3
+
+NAME                        USES
+
+pyttsx3            ## for voice outputs
+SpeechRecognition  ## for understanding voice inputs  
+requests           ## for import reqests
+bs4                ## for pulling data out of HTML and XML files
+datetime           ## for date and time
+pyautogui          ## for keyboard use
+plyer              ## for notification
+pygame             ## for play sound
+speedtest          ## for internetSpeedTest
+playsound          ## for play sound 
+time               ## for time
+wolframalpha       ## for calculation
+matplotlib.pyplot  ## for plot Graph
+ctypes             ## for allowing calling functions in DLLs or shared libraries
+sys                ## for modifying many elements of the Python Runtime Environment
+PIL                ## for Imaging Library
+pynput.keyboard    ## for shortcut
+json               ## for lightweight data interchange format
+webbrowser         ## for interface remotely webbrowser
+pywhatkit          ## for reduce additional setup
+fnmatch            ## for translater
+googletrans        ## for use google translater 
+gtts               ## for Google Text-to-Speech
+
+
+#################################################################
+
+PASSWORD = jarvis (CHANGABLE)
+
+################################################################
+
+Ther are some api you should have to Download before use & enter them manually:-
+
+1. WolfRamAlpha api from https://account.wolfram.com/login/create (for calculation) (Create your own)
+2. News api from https://newsapi.org/register (create your own) (same api for all types of news)
+
+################################################################
+
+Enter your own notification sound, alarm sound, startup sound, intro_gif
+
+################################################################
